@@ -1,0 +1,50 @@
+stadium_name,address,capacity,record_league_attendance,building_date,pitch_size
+"""Emirates Stadium""","""Highbury House 75 Drayton Park London N5 1BU""",60260,60161,2006,105m x 68m
+"""Villa Park""","""Villa Park Trinity Road Birmingham B6 6HE""",42682,NULL,1897,105m x 68m
+"""Oakwell""","""Oakwell Grove Street Barnsley S71 1ET""",23009,NULL,1887,100m x 68m
+"""St. Andrew's Trillion Trophy Stadium""","""St. Andrew's Stadium Birmingham B9 4RL""",29409,NULL,1906,105m x 68m
+"""Ewood Park""","""Ewood Park Blackburn Lancashire BB2 4JF""",31367,NULL,1882,105m x 68m
+"""Bloomfield Road""","""Seasiders Way Blackpool FY1 6JJ""",17338,NULL,1899,102m x 68m
+"""University of Bolton Stadium""","""Burnden Way Horwich Bolton BL6 6JW""",28723,NULL,1997,105m x 68m
+"""Vitality Stadium""","""Vitality Stadium Dean Court Bournemouth BH7 7AF""",NULL,11459,1910,105m x 68m
+"""Valley Parade""","""Bradford West Yorkshire BD8 7DY""",25136,NULL,18861,03m x 64m
+"""Brentford Community Stadium""","""Brentford Community Stadium Lionel Road South Brentford TW8 0RU""",17250,NULL,2020,105m x 68m
+"""Amex Stadium""","""American Express Community Stadium Village Way Brighton BN1 9BL""",30666,30565,2011,105m x 68m
+"""Turf Moor""","""Turf Moor Harry Potts Way Burnley Lancashire BB10 4BX""",21944,21870,1883,105m x 68m
+"""Cardiff City Stadium""","""Cardiff City Stadium Leckwith Road Cardiff CF11 8AZ""",NULL,32321,2009,105m x 68m
+"""The Valley""","""Floyd Road Charlton SE7 8BL""",27111,NULL,1919,102m x 67m
+"""Stamford Bridge""","""Stamford Bridge Fulham Road London SW6 1HS""",40853,42332,1877,103m x 67.5m
+"""Highfield Road""","""Phoenix Way Foleshill Coventry West Midlands CV6 6GE""",32609,NULL,2005,105m x 68m
+"""Selhurst Park""","""Selhurst Park Stadium Holmesdale Road London SE25 6PU""",25486,30115,1924,101m x 68m
+"""Pride Park Stadium""","""Pride Park Stadium Pride Park Derby DE24 8XL""",33597,NULL,1997,105m x 68m
+"""Goodison Park""","""Goodison Park Goodison Road Liverpool L4 4EL""",39221,40552,1892,100.48m x 68m
+"""Craven Cottage""","""Stevenage Road London SW6 6HH""",19000,NULL,1896,100m x 65m
+"""John Smith's Stadium""","""The John Smith's Stadium Stadium Way Huddersfield HD1 6PX""",NULL,24426,1994,106m x 68m
+"""KCOM Stadium""","""The KCOM Stadium West Park Hull HU3 6HU""",NULL,NULL,2002,105m x 68m
+"""Portman Road""","""Portman Road Ipswich Suffolk IP1 2DA""",30311,NULL,1884,102m x 64m
+"""Elland Road""","""Elland Road Leeds LS11 0ES""",37890,NULL,NULL,106m x 69m
+"""King Power Stadium""","""King Power Stadium Filbert Way Leicester LE2 7FL""",32273,32242,2002,105m x 68m
+"""Anfield""","""Anfield Anfield Road Liverpool L4 0TH""",53394,53292,1884,101m x 68m
+"""Etihad Stadium""","""Etihad Stadium Etihad Campus Manchester M11 3FF""",55017,54693,2002,105m x 68m
+"""Old Trafford""","""Sir Matt Busby Way Old Trafford Manchester M16 0RA""",74879,76098,1909,105m x 68m
+"""Riverside Stadium""","""Riverside Stadium Middlesbrough TS3 6RS""",33746,NULL,1995,105m x 68m
+"""St. James' Park""","""St. James' Park Strawberry Place Newcastle Upon Tyne NE1 4ST""",52305,52490,1892,105m x 68m
+"""Carrow Road""","""Carrow Road Norwich NR1 1JE""",27359,NULL,1935,104m x 68m
+"""City Ground""","""City Ground Nottingham NG2 5FJ""",30445,NULL,1898,105m x 71m
+"""Boundary Park""","""Furtherwood Rd Oldham Greater Manchester OL1 2PAA""",13512,NULL,1904,101m x 68m 
+"""Fratton Park""","""Fratton Park Frogmore Road Portsmouth PO4 8RA""",21178,NULL,1898,105m x 67m
+"""Loftus Road""","""Loftus Road Stadium South Africa Road London W12 7PJ""",18439,NULL,1904,102m x 66m
+"""Madejski Stadium""","""Bennett Road Reading RG2 0FL""",24161,NULL,1998,102m x 70m
+"""Bramall Lane""","""Bramall Lane Sheffield South Yorkshire S2 4SU""",32050,NULL,1855,102m x 66m
+"""Hillsborough""","""Leppings Ln Sheffield South Yorkshire S6 1SW""",39732,NULL,1899,105m x 68m
+"""St. Mary's Stadium""","""St Mary's Stadium Britannia Road Southampton SO14 5FP""",32384,32151,2001,105m x 68m
+"""bet365 Stadium""","""bet365 Stadium Stanley Matthews Way Stoke-on-Trent ST4 4EG""",NULL,29661,1997,105m x 68m
+"""Stadium of Light""","""Stadium of Light Sunderland SR5 1SU""",NULL,NULL,1997,105m x 68m
+"""Liberty Stadium""","""Liberty Stadium Landore Swansea SA1 2FA""",NULL,20972,2005,105m x 68m
+"""County Ground""","""NULL""",NULL,NULL,NULL,NULL
+"""Tottenham Hotspur Stadium""","""Lilywhite House 782 High Road Tottenham London N17 0BX""",NULL,NULL,2019,100m x 67m
+"""Vicarage Road""","""Vicarage Road Stadium Watford Hertfordshire WD18 0ER""",21000,21590,1922,
+"""The Hawthorns""","""The Hawthorns West Bromwich West Midlands B71 4LF""",NULL,27751,1900,
+"""London Stadium""","""London Stadium Queen Elizabeth Olympic Park London E20 2ST""",60000,59946,2011,105m x 68m
+"""DW Stadium""","""Loire Drive Robin Park Wigan Greater Manchester WN5 0UH""",25133,NULL,1999,105m x 68m
+"""Molineux Stadium""","""Molineux Stadium Waterloo Rd Wolverhampton WV1 4QR""",32050,31322,1889,105m x 68m
